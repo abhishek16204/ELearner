@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772563494132",
+    "firebase_url": "https://e-learner-1e7ea.firebaseio.com",
+    "project_id": "e-learner-1e7ea",
+    "storage_bucket": "e-learner-1e7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772563494132:android:15e99315244fe843",
+        "android_client_info": {
+          "package_name": "com.example.android.e_learner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772563494132-nt56d04rpfgassp8md6h38l86urcjgek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.e_learner",
+            "certificate_hash": "66f31de124973e0b4514ca626ebfc37b8b79f3bc"
+          }
+        },
+        {
+          "client_id": "772563494132-o2blqptdd01roi7plinves4aqif732o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtZVBa4Uxvy2Dy-kpiA0XSAmJCk2UbR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772563494132-o2blqptdd01roi7plinves4aqif732o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
